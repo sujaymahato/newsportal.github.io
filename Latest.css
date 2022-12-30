@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&family=Quicksand:wght@300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background: rgb(229, 214, 214);
+}
+
+.latestnews{
+    background: red;
+    color: white;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+
+.firstgrid{
+    margin-top: 10px;
+       
+}
+
+.firstgrid img{
+    width: 1500px;
+    height: 650px;
+}
+.firstgrid .headline{
+    margin-top: -150px;
+    color: white;
+    padding-left: 10px;
+}
+
+.secondgridleft img{
+    width: 700px;
+}
+.secondgridleft{
+    margin-top: 50px;
+}
+
+
+.secondgridright{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#afganistan{
+    color: grey;
+}
+
+
+
+.thirdgridright{
+    margin-top: 50px;
+    margin-left: 50px;
+       
+}
+
+.thirdgridleft {
+    margin-top: 50px;
+}
+
+
+
+.fourthgridleft{
+    margin-top: 50px;
+       
+}
+.fourthgridleft img{
+    width: 800px;
+}
+
+.fourthgridleft .headline{
+    margin-top: -120px;
+    color: white;
+    padding-left: 10px;
+}
+
+.fourthgridright{
+    margin-top: 50px;
+}
+
+
+.fourthgridright img{
+width: 200px;
+height: 115px;
+}
+
+
+.footer{
+    margin-top: 50px;
+}
+
+
